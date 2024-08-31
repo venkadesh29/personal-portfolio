@@ -1,4 +1,4 @@
-# personal_portfolio
+# personal-portfolio
 
 A new Flutter project.
 
