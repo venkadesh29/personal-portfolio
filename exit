@@ -1,0 +1,36 @@
+[33mcommit 8557d1262d77ccad06146d7637f595fc651fe119[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: venkadesh29 <68589745+venkadesh29@users.noreply.github.com>
+Date:   Wed Sep 4 04:42:09 2024 +0530
+
+    Day02
+
+[33mcommit af981adbe75b531d2765aad2d3b6094d6b095607[m
+Merge: 3ef8dd8 1915f7c
+Author: venkadesh29 <68589745+venkadesh29@users.noreply.github.com>
+Date:   Sat Aug 31 06:37:48 2024 +0530
+
+    Resolve conflict in README.md
+
+[33mcommit 3ef8dd847c74e9ee1172604b0179cdf3cbd40293[m
+Author: venkadesh29 <68589745+venkadesh29@users.noreply.github.com>
+Date:   Sat Aug 31 06:20:58 2024 +0530
+
+    day01
+
+[33mcommit fa4e8ac7ce13cc36deb3a59d93e54574921de27d[m
+Author: venkadesh29 <68589745+venkadesh29@users.noreply.github.com>
+Date:   Sat Aug 31 06:19:31 2024 +0530
+
+    Your commit message
+
+[33mcommit 73caaf429530acd7dfaafecfb043e6553af6fa2d[m
+Author: venkadesh29 <68589745+venkadesh29@users.noreply.github.com>
+Date:   Sat Aug 31 04:10:22 2024 +0530
+
+    Initial commit
+
+[33mcommit 1915f7c4596e9d418d0a6033dea791b2a0f57214[m
+Author: Venkadesh <68589745+venkadesh29@users.noreply.github.com>
+Date:   Sat Aug 31 04:03:10 2024 +0530
+
+    Initial commit
